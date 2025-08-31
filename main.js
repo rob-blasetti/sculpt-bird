@@ -1,4 +1,5 @@
 // Three.js Bird Sculpture — minimal, low-poly, animated
+console.log("Nightingale sculpture v2 — deployed");
 // Uses CDN ESM modules for GitHub Pages friendliness
 
 import * as THREE from 'https://unpkg.com/three@0.160.0/build/three.module.js';
